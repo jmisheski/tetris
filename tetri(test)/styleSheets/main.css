@@ -1,0 +1,9 @@
+.grid {
+    background-image: repeating-linear-gradient(0deg,transparent,transparent 49px,#88F 49px,#88F 50px),
+                    repeating-linear-gradient(-90deg,transparent,transparent 49px,#88F 49px,#88F 50px);
+    background-size: 50px 50px;
+    top: 8px;
+    height: 651px;
+    position: absolute;
+    width: 501px;
+}
